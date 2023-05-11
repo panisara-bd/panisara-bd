@@ -1,12 +1,9 @@
-<div style="background: rgb(209,245,119);
-background: radial-gradient(circle, rgba(209,245,119,1) 0%, rgba(245,245,245,1) 62%); padding: 30px">
-<div style="text-align: center;"> <h1> Hi there! I'm Panisara 👋 </h1></div> 
+<h1 align="center">Hi there! I'm Panisara 👋 </h1>
 
-<div style="text-align: center;"> ➕➖➗✖️</div> 
+<p align="center">➕➖➗✖️</p>
 
 
-
-<div style="color: #000;"><h3>Some of the Teach Stack I use</h3></div>
+<h3>🍋 Some of the Teach Stack I use</h3>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-100000?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=007acc&color=007acc) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=F0db4f&color=F0db4f) 
@@ -20,8 +17,7 @@ background: radial-gradient(circle, rgba(209,245,119,1) 0%, rgba(245,245,245,1) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-100000?style=for-the-badge&logo=POSTGRESQL&logoColor=white&labelColor=31648c&color=31648c)
 
 
-
-<div style="color: #000;"><h3>Full-Stack Projects </h3></div>
+<h3>🌵 Full-Stack Projects </h3>
 
 [![](https://img.shields.io/badge/-🍿%20WatchL-000?style=for-the-badge)](https://github.com/panisara-bd/watchl-app) <div style="font-size: 10px;">📱 Mobile focused movies scheduler application with serverless infrastucture</div>
 
