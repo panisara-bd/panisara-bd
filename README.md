@@ -22,9 +22,9 @@
 [![](https://img.shields.io/badge/-🍿%20WatchL-000?style=for-the-badge)](https://github.com/panisara-bd/watchl-app) <div style="font-size: 10px;">📱 Mobile focused movies scheduler application with serverless infrastucture</div>
 
 
-[![](https://img.shields.io/badge/-📝%20CV%20Creator-7e20cf?style=for-the-badge)](https://github.com/panisara-bd/watchl-app) <div style="font-size: 10px;">💼 Awsome web application through 2 weeks mob programming</div>
+[![](https://img.shields.io/badge/-📝%20CV%20Creator-7e20cf?style=for-the-badge)](https://github.com/plan-b-projects/cv-creator) <div style="font-size: 10px;">💼 Awsome web application through 2 weeks mob programming</div>
 
-[![](https://img.shields.io/badge/-🌎%20World%20Clock-00C5FF?style=for-the-badge)](https://github.com/panisara-bd/watchl-app) <div style="font-size: 10px;">👩🏻‍💻 One-day hackathon project</div>
+[![](https://img.shields.io/badge/-🌎%20World%20Clock-00C5FF?style=for-the-badge)](https://github.com/panisara-bd/people-world-clock) <div style="font-size: 10px;">👩🏻‍💻 One-day hackathon project</div>
 
 ### You can also find me here!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0177b5&color=0177b5)](https://www.linkedin.com/in/panisara-bd/)
