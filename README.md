@@ -2,6 +2,7 @@
 
 <p align="center">➕➖➗✖️</p>
 
+<p>👋 Hey there! 🌼 I'm a full-stack dev with a focus on Typescript, Node.js, and a sprinkle of C# (.NET). I currently live in charming Stockholm, Sweden, and I'm glad you stopped by! My journey began in digital marketing and UX/UI design, where I honed my skills in design and SEO. Today, the real joy for me lies in creating beautiful front-end experiences that bring smiles to faces! Let's collaborate and build some magical projects together! 🎉💻</p>
 
 <h3>🍋 Some of the Teach Stack I use</h3>
 
